@@ -13,7 +13,7 @@ int main() {
 
     // Verifica tamanho mínimo
     if (senha.length() >= 8) {
-        tamanhoValido = true;
+        tamValido = true;
     }
 
     // Verifica se possui caractere especial
